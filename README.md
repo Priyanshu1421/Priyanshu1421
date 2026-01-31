@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 **Priyanshu1421/Priyanshu1421** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-# 💫 About Me:
+# 💫 About Me: Looling for a challenging job where I am proving myself and opportunities for applying knowledge to gain wide experience. I want to contribute my skills in a position with growing and dynamic.
 I'm currently learning Full Stack Java Developer and Complete Front End Technology
 
 
